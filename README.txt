@@ -6,3 +6,4 @@ Another trial
 So once again.
 Master upg
 Feature 2
+JACEK POCZATEK
