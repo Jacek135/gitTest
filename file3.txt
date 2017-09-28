@@ -2,6 +2,13 @@ Jacek1
 Jacek2
 Jacek4
 Jacek5
+=======
+
+Nowe rzeczy
+Jacek
+Jacek Commit 1
+Jacek Commit 2
+Jacek Commit 311
 
 
 Jacek 100
