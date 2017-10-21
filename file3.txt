@@ -19,5 +19,5 @@ Jacek 100
 New COMMIT 02
 New COMMIT 03
 
-
+New COMMIT 05
 New COMMIT 06
