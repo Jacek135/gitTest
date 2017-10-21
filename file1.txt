@@ -8,4 +8,5 @@ Jacek Commit 17
 Jacek Commit 18
 
 New COMMIT 01
+New COMMIT 02
 New COMMIT 03
